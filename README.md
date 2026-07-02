@@ -1,9 +1,6 @@
 # Sakura
 
-一个 WebGL 樱花页面，现在可以直接用 Cloudflare Workers 部署。
-
-访问地址：
-http://sakura.dt.wtf/
+一个 WebGL 樱花页面，用于 Cloudflare Workers 部署测试。
 
 ## 实现方法
 
